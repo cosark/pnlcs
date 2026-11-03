@@ -30,6 +30,7 @@
 
 <p align="center">
   <a href="#quick-start-with-docker">Quick Start</a> ·
+  <a href="#one-click-deploy">One-Click Deploy</a> ·
   <a href="#self-hosted-installation-without-docker">Installation</a> ·
   <a href="#first-steps-after-installation">First Steps</a> ·
   <a href="#hosting-billing-features">Features</a> ·
@@ -516,6 +517,10 @@ docker exec pnlcs /usr/local/bin/update.sh
 📦 **Full image documentation, environment variables, screenshots, and
 production deployment notes:**
 👉 https://hub.docker.com/r/panelica/pnlcs-runtime
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/PNLCS/)
 
 ---
 
